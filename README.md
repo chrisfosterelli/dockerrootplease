@@ -6,7 +6,7 @@ If you're a member of the 'docker' group on a machine, this command gives you a 
 How to Use
 ----------
 
-Though Docker Hub:
+Through Docker Hub:
 
 ```bash
 > docker run -v /:/hostOS -i -t chrisfosterelli/rootplease
