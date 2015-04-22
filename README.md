@@ -1,7 +1,7 @@
 Root Please
 ===========
 
-If you're a member of the 'docker' group on a machine, this command gives you a root shell on the host OS. [See my blog post for details](https://fosterelli.co/privilege-escalation-via-docker.md).
+If you're a member of the 'docker' group on a machine, this command gives you a root shell on the host OS. [See my blog post for details](https://fosterelli.co/privilege-escalation-via-docker.html).
 
 How to Use
 ----------
